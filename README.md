@@ -22,14 +22,14 @@ Ever since I watched The Flash I have been fascinated by the unnatural speed tha
 # Phantom Mode
 This is by far the most advanced mod I've made. It still doesn't remove the fact that it is horrible. There are a couple of things you need to keep in mind. One is that you cannot change to phantom mode when alive. You need to be dead. Below are the default key bindings
 
-"M" - Enable Phantom Mode(while in spectator mode)
-"P" - Teleport to your dead body
-"C" - Toggle bright mode(night vision mode technically)
-"B" - Teleport to the entrance outside
-"R" - Switch to spectator mode
-"O" - Toggle free roam
-"Space" - Ascend in Free Roam
-"Left Shift" - Descend in Free Roam
+- "M" - Enable Phantom Mode(while in spectator mode)
+- "P" - Teleport to your dead body
+- "C" - Toggle bright mode(night vision mode technically)
+- "B" - Teleport to the entrance outside
+- "R" - Switch to spectator mode
+- "O" - Toggle free roam
+- "Space" - Ascend in Free Roam
+- "Left Shift" - Descend in Free Roam
 
 Things to keep in mind:
 - You can jump mid air
